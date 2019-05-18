@@ -13,6 +13,8 @@ import java.util.Scanner;
  */
 public class PalinTest {
 
+    //this is a stupid line of comment for me to test committing on github
+    
     public static void main(String[] args) {
         Palin<Character> p = new Palin();
         Scanner s = new Scanner(System.in);
