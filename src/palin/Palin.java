@@ -12,6 +12,8 @@ package palin;
 public class Palin<E> {
 
     private java.util.ArrayList<E> list = new java.util.ArrayList<>();
+    
+    //hi haha
 
     public int getSize() {
         return list.size();
